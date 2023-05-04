@@ -1,0 +1,10 @@
+p{
+	font-size: 24px;
+    
+	font-family: verdana;     
+	background: green;
+	margin: 15px 20px 30px 35px;     
+	padding: 10px 20px 10px 20px;     
+	text-decoration: underline;   
+	text-shadow: 3px 3px 5px blue;   
+}
